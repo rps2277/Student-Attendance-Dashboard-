@@ -381,7 +381,5 @@ Final Dashboard
 
 ## Author
 
-**Raj Pratap Singh**
-
-B.Tech – Information Technology  
+**Raj Pratap Singh**  
 Data Analyst | Data Science Enthusiast
